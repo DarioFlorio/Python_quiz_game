@@ -1,5 +1,4 @@
 # Author:Dario Florio
-# University: University of Sunderland
 # Date:29-08-2022
 ###################################################### DEPENDECIES ########################
 # call the game methods from the helpers file 
